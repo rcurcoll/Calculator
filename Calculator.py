@@ -18,3 +18,6 @@ class Calculator:
         result = a*urbag_constant+b
         #self: pq miri en la 'class' Calculator. De fet, podríem escriure Calculator
         return result
+    
+    def pirueta(a,b,c):
+        return a+(b*b)+(c*c*c)
