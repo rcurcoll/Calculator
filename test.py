@@ -10,3 +10,7 @@ from Calculator import Calculator
 result = Calculator.sum(3,4)
 
 print("El resultat de la suma és",result)
+
+result2 =Calculator.applyUrbag(3,4)
+
+print("El resultat d'aplicar Urbag és",result2)
